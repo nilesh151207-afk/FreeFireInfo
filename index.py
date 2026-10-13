@@ -5,9 +5,9 @@ from urllib.error import HTTPError, URLError
 import json
 import os
 
-UPSTREAM = "https://infoooooo-v6v5.vercel.app/accinfo"
+UPSTREAM = "https://nilesh151207-afk/InfoApiFF/accinfo"
 
-API_KEY = os.environ.get("API_KEY", "Anurag")
+API_KEY = os.environ.get("API_KEY", "Nilesh")
 
 SIGNATURE = (
     "╔══════════════════════════════╗"
